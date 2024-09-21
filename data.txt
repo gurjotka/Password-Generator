@@ -1,0 +1,17 @@
+
+Website: amazon
+Email: gjkaur@gmail.com
+Password: 123456
+ 
+Website: abc
+Email: gjkaur@gmail.com
+Password: 123@
+ 
+Website: abc
+Email: gjkaur@gmail.com
+Password: 123
+ 
+Website: amazon
+Email: gjkaur@gmail.com
+Password: %IUzo*L#q49mjHp
+ 
